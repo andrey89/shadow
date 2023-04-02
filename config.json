@@ -9,7 +9,7 @@
     "reuse_port": true,
     "workers": 1,
     "plugin": "v2ray-plugin",    
-    "nameserver": "127.0.0.1",
+    "nameserver": "8.8.8.8",
     "plugin_opts": "server;loglevel=none",
     "mode": "tcp_and_udp"
 }
